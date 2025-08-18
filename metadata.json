@@ -1,0 +1,5 @@
+{
+  "name": "Sales Funnel Hero",
+  "description": "A multi-step sales funnel application for generating leads for home services like Solar, HVAC, Roofing, and Smart Home installations. It includes contact information collection, solar potential analysis using Google Solar API, user qualification, and appointment scheduling.",
+  "requestFramePermissions": []
+}
